@@ -34,4 +34,4 @@ jobs:
         run: npm ci
 
       - name: Build with TSC
-        run: npm build
+        run: npm run build
